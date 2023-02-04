@@ -1,0 +1,34 @@
+{
+  "token": "",
+  "prefix": [".","!","s!"],
+  "guildID": "1067921186006241340",
+  "BotClientID": "1067921186006241340",
+  "mongoUrl": "mongodb+srv://mistok123:vanessaxyz@cluster0.ingaz6y.mongodb.net/?retryWrites=true&w=majority",
+  "owners": ["985561327214927915","852069968937091072"],
+  "botDurum": "Created By Wendos 🦇",
+  "botSes": "1067921193165922382",
+  "registerPerm": "1067921186337591434",
+  "servername": "Vanessa",   
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+
+  "banlimit": 3,
+  "jaillimit": 3,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
